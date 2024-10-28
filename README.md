@@ -1,7 +1,7 @@
 # I'm Raiz
 With over seven years of expertise, I navigate software development and project management with finesse. My forte lies in crafting and implementing resilient solutions tailored to diverse client needs. Proficient across numerous languages and frameworks, I champion innovation and lead teams toward delivering premium products. Backed by a stellar track record and an insatiable thirst for learning, I am a valued asset in any development arena.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyphercoderr&layout=compact&theme=github_dark&card_width=1000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyphercoderr&layout=compact&theme=github_dark&card_width=400)
 
 ## Technologies and Skills
 ### Frontend
