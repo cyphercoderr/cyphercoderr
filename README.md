@@ -22,7 +22,7 @@ I love working in **agile, fast-paced environments**, solving complex problems, 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat&logo=java&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-PHP-F7DF1E?style=flat&logo=php&logoColor=black)  
 
 ### **Frameworks & Libraries**  
