@@ -1,46 +1,63 @@
-# Hey!
-With over seven years of expertise, I navigate software development and project management with finesse. My forte lies in crafting and implementing resilient solutions tailored to diverse client needs. Proficient across numerous languages and frameworks, I champion innovation and lead teams toward delivering premium products. Backed by a stellar track record and an insatiable thirst for learning, I am a valued asset in any development arena.
+# 👋 Hey there, I'm CypherCoder!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyphercoderr&layout=compact&theme=github_dark&card_width=400)
+🚀 Full-Stack Engineer | 💡 Passionate about Scalable Systems | 🏗️ Building High-Performance Apps  
 
-## Technologies and Skills
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
+I specialize in designing and implementing **scalable web applications**, optimizing **backend performance**, and crafting seamless **frontend experiences**. My tech stack includes **JavaScript, TypeScript, Python, Ruby on Rails, Node.js, React, and Angular**, along with experience in **cloud services, DevOps, and database management**.  
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby&logoColor=white)
+I love working in **agile, fast-paced environments**, solving complex problems, and collaborating with cross-functional teams. Let’s build something amazing together!  
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+---
 
-### Cloud Platforms
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+## 📊 GitHub Stats  
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CypherCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyphercoderr&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyphercoderr&layout=compact&theme=radical)  
 
-### Development Practices
-![DevOps](https://img.shields.io/badge/-DevOps-4B8BBE?style=flat-square&logo=gitlab&logoColor=white)
-![API Integration](https://img.shields.io/badge/-API%20Integration-007ACC?style=flat-square&logo=api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+---
 
-### Other Technologies
-![MERN](https://img.shields.io/badge/-MERN-00C5B5?style=flat-square&logo=mongodb&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square&logo=ai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFB74D?style=flat-square&logo=ai&logoColor=white)
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+## 🚀 Technologies & Skills  
 
-### Full-Stack Development
-![Full-Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-4CAF50?style=flat-square&logo=github&logoColor=white)
+### **Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)  
+
+### **Frameworks & Libraries**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)  
+
+### **Databases**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)  
+
+### **DevOps & Cloud**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)  
+
+---
+
+## 🔥 Featured Projects  
+
+- 🚀 **[Project Name 1](#)** – Brief description  
+- 📡 **[Project Name 2](#)** – Brief description  
+- 🛰️ **[Project Name 3](#)** – Brief description  
+- 🛠️ **[Project Name 4](#)** – Brief description  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat)](https://yourwebsite.com)  
+
+---
+
+⭐ **Explore my work, and let’s connect!** 🚀  
