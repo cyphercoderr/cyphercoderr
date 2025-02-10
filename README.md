@@ -45,10 +45,10 @@ I love working in **agile, fast-paced environments**, solving complex problems, 
 
 ## 🔥 Featured Projects  
 
-- 🚀 **[Project Name 1](#)** – Brief description  
-- 📡 **[Project Name 2](#)** – Brief description  
-- 🛰️ **[Project Name 3](#)** – Brief description  
-- 🛠️ **[Project Name 4](#)** – Brief description  
+- 🚀 **[Dhamira](https://dhamira.com/)**
+- 📡 **[Coligo](https://www.colligo.com/)**
+- 🛰️ **[Lingoport](https://lingoport.com/)**
+- 🛠️ **[Arcaniuminc](https://www.arcaniuminc.com/)**
 
 ---
 
